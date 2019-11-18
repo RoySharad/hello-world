@@ -1,2 +1,2 @@
 # hello-world
-just to lern
+just to learn
